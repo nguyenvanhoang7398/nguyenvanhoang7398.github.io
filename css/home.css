@@ -1,0 +1,61 @@
+.nav-link {
+    color: #ed2939;
+    font-size: 24px;
+}
+
+.intro {
+	background-color: #f0fff0;
+	height: 220px;
+  	border-radius: 5px;
+}
+
+.intro p {
+  color: #003153;
+  font-size: 16px;
+  padding: 10px;
+}
+
+.card {
+	background-color: #f0ffff;
+	height: 60px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.card-small {
+	height: 40px;
+}
+
+.card-large {
+	height: 90px;
+}
+
+.card-text-wrapper {
+	padding: 10px;
+}
+
+.card p {
+  color: #003153;
+  font-size: 14px;
+}
+
+.portrait {
+	width: 157.5px;
+	height: 200px;
+	border-radius: 5px;
+	padding: 8px;
+}
+
+.sect {
+  	width: 60%;
+  	margin-left: auto ;
+  	margin-right: auto ;
+}
+
+h3 {
+	color: #ed2939;
+}
+
+b {
+	color: #003153;
+}
